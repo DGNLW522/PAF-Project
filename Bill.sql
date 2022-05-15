@@ -1,0 +1,1 @@
+SELECT * FROM electro_grid.bills;
